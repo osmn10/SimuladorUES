@@ -105,5 +105,31 @@ public class CamaraLibre : MonoBehaviour
 
         if (Input.GetKey(KeyCode.LeftControl))
             camaraLibre.transform.position += Vector3.down * velocidadVertical * Time.deltaTime;
+
+        // ===== LIMITES DE LA CAMARA LIBRE =====
+        // Evita que la camara salga del area del mapa o se hunda en el suelo
+
+        Vector3 pos = camaraLibre.transform.position;
+
+        // Limite del suelo (altura minima) - el suelo esta en Y = -0.47
+        if (pos.y < 1f)
+            pos.y = 1f;
+
+        // Limite de altura maxima (techo, para no irse al infinito hacia arriba)
+        if (pos.y > 100f)
+            pos.y = 100f;
+
+        // Limites horizontales (mismos bordes que las paredes del mapa)
+        // Bordes en X: Oeste -133, Este 116
+        if (pos.x < -133f) pos.x = -133f;
+        if (pos.x > 116f) pos.x = 116f;
+
+        // Bordes en Z: Sur -171, Norte 79
+        if (pos.z < -171f) pos.z = -171f;
+        if (pos.z > 79f) pos.z = 79f;
+
+        // Aplicamos la posicion corregida
+        camaraLibre.transform.position = pos;
     }
+   
 }
