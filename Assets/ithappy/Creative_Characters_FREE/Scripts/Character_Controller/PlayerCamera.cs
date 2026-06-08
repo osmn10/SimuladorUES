@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Controller
+namespace ithappy.Creative_Characters_FREE.Controller
 {
     public abstract class PlayerCamera : MonoBehaviour
     {

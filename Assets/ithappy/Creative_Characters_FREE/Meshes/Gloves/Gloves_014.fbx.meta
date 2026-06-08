@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 47ba93e4fb1b05e418fa1918bf34ed85
+guid: a16f866300a64599b683c7d9a881d94b
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -676,7 +676,7 @@ ModelImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Meshes/Gloves/Gloves_014.fbx
-  uploadId: 821370
+  uploadId: 927690

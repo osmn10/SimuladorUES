@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Linq;
-using CharacterCustomizationTool.FaceManagement;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.FaceManagement;
 using UnityEngine;
 
-namespace CharacterCustomizationTool.Editor.FaceEditor
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.FaceEditor
 {
     public static class FaceLoader
     {

@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Controller
+namespace ithappy.Creative_Characters_FREE.Controller
 {
     [RequireComponent(typeof(CharacterController))]
     [RequireComponent(typeof(Animator))]

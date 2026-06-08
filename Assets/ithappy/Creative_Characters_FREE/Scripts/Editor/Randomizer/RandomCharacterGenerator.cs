@@ -1,10 +1,10 @@
 using System;
 using System.Linq;
-using CharacterCustomizationTool.Editor.Character;
-using CharacterCustomizationTool.Editor.Randomizer.Steps;
-using CharacterCustomizationTool.Editor.Randomizer.Steps.Impl;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Character;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Randomizer.Steps;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Randomizer.Steps.Impl;
 
-namespace CharacterCustomizationTool.Editor.Randomizer
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Randomizer
 {
     public class RandomCharacterGenerator
     {

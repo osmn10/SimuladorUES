@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1ce007de4fc6e4645b0ea41258fde30a
+guid: cb2b769b6d1947c3b54838dae8433793
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -676,7 +676,7 @@ ModelImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Meshes/Socks/Socks_008.fbx
-  uploadId: 821370
+  uploadId: 927690

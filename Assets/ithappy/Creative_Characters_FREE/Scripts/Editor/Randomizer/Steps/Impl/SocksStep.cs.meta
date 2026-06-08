@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 246406a9e2694ee199d27d33b1a5abd2
+guid: 377dbb884b9a4c3183a6f3f89a35e63f
 timeCreated: 1736681519
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Scripts/Editor/Randomizer/Steps/Impl/SocksStep.cs
-  uploadId: 821370
+  uploadId: 927690

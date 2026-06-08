@@ -1,6 +1,6 @@
-using CharacterCustomizationTool.Editor.Character;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Character;
 
-namespace CharacterCustomizationTool.Editor.SlotValidation
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.SlotValidation
 {
     public class SlotValidator
     {

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 306181288ee2f4549a9887a8e1de380e
+guid: ddae1c8eb8e14567b4b6d8d41607d2db
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000
@@ -9,7 +9,7 @@ NativeFormatImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Animations/Other_Animations/Run_Backward.anim
-  uploadId: 821370
+  uploadId: 927690

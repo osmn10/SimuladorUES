@@ -1,9 +1,9 @@
 using System;
 using System.Linq;
-using CharacterCustomizationTool.FaceManagement;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.FaceManagement;
 using UnityEditor;
 
-namespace CharacterCustomizationTool.Editor.FaceEditor
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.FaceEditor
 {
     [CustomEditor(typeof(FacePicker))]
     public class FacePickerEditor : UnityEditor.Editor

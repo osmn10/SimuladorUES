@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9ca093b63b32bc6479e8706c849e1ee2
+guid: a2c37b4540c64dca9b853d2f8424e153
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -676,7 +676,7 @@ ModelImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Meshes/Face Accessories/Clown_nose_001.fbx
-  uploadId: 821370
+  uploadId: 927690

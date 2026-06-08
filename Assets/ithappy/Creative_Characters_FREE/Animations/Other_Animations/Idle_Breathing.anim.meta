@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3e8b019130a71d04192187428b660fbf
+guid: 3ed56c1c8d524197b0c60b0b09bb8d84
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000
@@ -9,7 +9,7 @@ NativeFormatImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Animations/Other_Animations/Idle_Breathing.anim
-  uploadId: 821370
+  uploadId: 927690

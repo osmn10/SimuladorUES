@@ -1,6 +1,6 @@
 using System;
 
-namespace CharacterCustomizationTool.Extensions
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Extensions
 {
     public static class StringExtensions
     {

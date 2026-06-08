@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9e5bbc0b38e172547b9df5b65285bb88
+guid: 212ae36e2e204ce2844c1c4905285b65
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000
@@ -9,7 +9,7 @@ NativeFormatImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Animations/Other_Animations/Walk_Backward.anim
-  uploadId: 821370
+  uploadId: 927690

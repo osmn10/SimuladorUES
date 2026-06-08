@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 01e7c5210856d604797dba8d0f416756
+guid: 7cc61edbc91e4638a961fc0228920a80
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000
@@ -9,7 +9,7 @@ NativeFormatImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Animations/Other_Animations/Jump_Loop.anim
-  uploadId: 821370
+  uploadId: 927690

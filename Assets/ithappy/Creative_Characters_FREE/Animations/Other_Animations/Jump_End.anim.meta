@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c3802495444247743a64026610cb08e7
+guid: e234e2a5d3e04f9a8fa6d6295555c345
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000
@@ -9,7 +9,7 @@ NativeFormatImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Animations/Other_Animations/Jump_End.anim
-  uploadId: 821370
+  uploadId: 927690

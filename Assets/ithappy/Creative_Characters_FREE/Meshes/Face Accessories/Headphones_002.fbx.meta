@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 106c56f4b86971e4393de6fb97ee6cdb
+guid: b7485eab03f4492ba1b917ef542e03cc
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -676,7 +676,7 @@ ModelImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Meshes/Face Accessories/Headphones_002.fbx
-  uploadId: 821370
+  uploadId: 927690

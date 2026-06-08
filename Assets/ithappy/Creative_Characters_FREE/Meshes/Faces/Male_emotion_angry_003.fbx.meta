@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e2a9edf3127d00246a60fb52ef4856b9
+guid: 2fe4b0e4b60c489c9b9e8c9ba491c82f
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -676,7 +676,7 @@ ModelImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Meshes/Faces/Male_emotion_angry_003.fbx
-  uploadId: 821370
+  uploadId: 927690

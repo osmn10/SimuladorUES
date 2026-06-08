@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6134248585b9bcf499ee2710961bc127
+guid: 54dedaa70a7f42fea35daa8e34373233
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -676,7 +676,7 @@ ModelImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Meshes/Costumes/Costume_13_002.fbx
-  uploadId: 821370
+  uploadId: 927690

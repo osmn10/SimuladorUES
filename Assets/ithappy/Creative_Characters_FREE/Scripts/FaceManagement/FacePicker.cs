@@ -1,9 +1,9 @@
 using System;
 using System.Linq;
-using CharacterCustomizationTool.Extensions;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Extensions;
 using UnityEngine;
 
-namespace CharacterCustomizationTool.FaceManagement
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.FaceManagement
 {
     public class FacePicker : MonoBehaviour
     {

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6e64ae1274b15fa4fbea3733685f5b29
+guid: 0285e58e2f58406e977b7f6954e3a085
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -12,7 +12,7 @@ MonoImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Scripts/Character_Controller/PlayerCamera.cs
-  uploadId: 821370
+  uploadId: 927690

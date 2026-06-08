@@ -1,14 +1,14 @@
 using System.IO;
 using System.Linq;
-using CharacterCustomizationTool.Editor.Character;
-using CharacterCustomizationTool.Editor.FaceEditor;
-using CharacterCustomizationTool.Editor.MaterialManagement;
-using Controller;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Character;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.FaceEditor;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.MaterialManagement;
+using ithappy.Creative_Characters_FREE.Controller;
 using UnityEditor;
 using UnityEditor.Animations;
 using UnityEngine;
 
-namespace CharacterCustomizationTool.Editor
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor
 {
     public class CharacterCustomizationWindow : EditorWindow
     {
@@ -21,10 +21,10 @@ namespace CharacterCustomizationTool.Editor
         private RenderTexture _renderTexture;
         private string _prefabPath;
 
-        [MenuItem("Tools/Character Customization")]
+        [MenuItem("Tools/ithappy/Creative_Characters_FREE/Character Customization")]
         private static void Init()
         {
-            FindRoot();
+            //FindRoot();
             var window = GetWindow<CharacterCustomizationWindow>("Character Customization");
             window.minSize = new Vector2(990, 655);
             window.Show();

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bfab5a5ca14002a469bd5912e025f274
+guid: 4bba9ab16b624951a701fdb3d42c0d29
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -676,7 +676,7 @@ ModelImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Meshes/Shoes/Shoe_Slippers_005.fbx
-  uploadId: 821370
+  uploadId: 927690

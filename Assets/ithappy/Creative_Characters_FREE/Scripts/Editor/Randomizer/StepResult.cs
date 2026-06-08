@@ -1,4 +1,4 @@
-namespace CharacterCustomizationTool.Editor.Randomizer
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Randomizer
 {
     public class StepResult
     {

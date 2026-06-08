@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a69a902533bc5af478efff13cc47894f
+guid: 5add01c494cc45f181d353929ae3a41c
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -12,7 +12,7 @@ MonoImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Scripts/FaceManagement/FacePicker.cs
-  uploadId: 821370
+  uploadId: 927690

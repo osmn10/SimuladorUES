@@ -1,4 +1,4 @@
-namespace CharacterCustomizationTool.Editor.Randomizer.Steps.Impl
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Randomizer.Steps.Impl
 {
     public class PantsStep : SlotStepBase, IRandomizerStep
     {

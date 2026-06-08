@@ -1,11 +1,11 @@
 using System.Collections.Generic;
 using System.Linq;
-using CharacterCustomizationTool.Editor.MaterialManagement;
-using CharacterCustomizationTool.Editor.Randomizer;
-using CharacterCustomizationTool.Editor.SlotValidation;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.MaterialManagement;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Randomizer;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.SlotValidation;
 using UnityEngine;
 
-namespace CharacterCustomizationTool.Editor.Character
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Character
 {
     public class CustomizableCharacter
     {

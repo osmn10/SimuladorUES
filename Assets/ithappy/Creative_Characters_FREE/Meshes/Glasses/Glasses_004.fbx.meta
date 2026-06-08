@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 37ecfcaf8ce0c064d92bcec65eba3e31
+guid: 74e90d5f69284bc89b300e219622c558
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -676,7 +676,7 @@ ModelImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Meshes/Glasses/Glasses_004.fbx
-  uploadId: 821370
+  uploadId: 927690

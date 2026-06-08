@@ -1,4 +1,4 @@
-﻿namespace CharacterCustomizationTool.Editor
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor
 {
     public readonly struct SavedSlot
     {

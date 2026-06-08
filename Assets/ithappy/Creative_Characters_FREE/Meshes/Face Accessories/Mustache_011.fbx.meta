@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b4d34f152c73703499b03a8b9beab646
+guid: 841939df083440b08890b6456d9acfca
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -676,7 +676,7 @@ ModelImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Meshes/Face Accessories/Mustache_011.fbx
-  uploadId: 821370
+  uploadId: 927690

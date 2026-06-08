@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b3edf626f9a56e6408d6fd33f0bd8e48
+guid: 3d39ac25afcb45c2bc292060792de745
 TextScriptImporter:
   externalObjects: {}
   userData: 
@@ -8,7 +8,7 @@ TextScriptImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Render_Pipeline_Convert/Documentation.txt
-  uploadId: 821370
+  uploadId: 927690

@@ -1,6 +1,6 @@
 using UnityEditor;
 
-namespace CharacterCustomizationTool.Editor.Character
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Character
 {
     public static class SlotLibraryLoader
     {

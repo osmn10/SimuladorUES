@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ce66d77ff5aabf548903d7b30693fbc0
+guid: 13c9767009ef455cb2eb3ce20d326201
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -681,7 +681,7 @@ ModelImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Meshes/Hat Single/Hat_Single_013.fbx
-  uploadId: 821370
+  uploadId: 927690

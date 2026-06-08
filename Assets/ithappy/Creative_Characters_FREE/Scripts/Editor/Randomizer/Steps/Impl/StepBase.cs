@@ -1,6 +1,6 @@
 using System.Linq;
 
-namespace CharacterCustomizationTool.Editor.Randomizer.Steps.Impl
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Randomizer.Steps.Impl
 {
     public abstract class StepBase : IRandomizerStep
     {

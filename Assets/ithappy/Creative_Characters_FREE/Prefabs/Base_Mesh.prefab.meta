@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5736e576bae68ca4393c5441179cace9
+guid: 602b521cccd640c3870c75c254938a10
 PrefabImporter:
   externalObjects: {}
   userData: 
@@ -8,7 +8,7 @@ PrefabImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Prefabs/Base_Mesh.prefab
-  uploadId: 821370
+  uploadId: 927690

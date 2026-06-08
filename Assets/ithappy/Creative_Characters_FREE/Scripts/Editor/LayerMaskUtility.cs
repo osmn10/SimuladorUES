@@ -2,7 +2,7 @@ using System;
 using UnityEditor;
 using UnityEngine;
 
-namespace CharacterCustomizationTool.Editor
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor
 {
     public class LayerMaskUtility
     {

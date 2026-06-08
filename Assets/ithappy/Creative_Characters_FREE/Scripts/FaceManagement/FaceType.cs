@@ -1,4 +1,4 @@
-namespace CharacterCustomizationTool.FaceManagement
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.FaceManagement
 {
     public enum FaceType
     {

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 819bbc3929ae14e43b0d8405d65589f9
+guid: 3469b524b3cb4a2e98832a439835f74f
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -676,7 +676,7 @@ ModelImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Meshes/Faces/Male_emotion_usual_001.fbx
-  uploadId: 821370
+  uploadId: 927690

@@ -1,4 +1,4 @@
-namespace CharacterCustomizationTool.Editor.Randomizer.Steps
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Randomizer.Steps
 {
     public interface IRandomizerStep
     {

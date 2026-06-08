@@ -3,7 +3,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace CharacterCustomizationTool.Editor
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor
 {
     public static class AssetLoader
     {

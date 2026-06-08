@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Controller
+namespace ithappy.Creative_Characters_FREE.Controller
 {
     [RequireComponent(typeof(CharacterMover))]
     public class MovePlayerInput : MonoBehaviour

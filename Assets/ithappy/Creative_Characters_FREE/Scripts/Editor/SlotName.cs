@@ -1,7 +1,7 @@
 using System.Linq;
-using CharacterCustomizationTool.Extensions;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Extensions;
 
-namespace CharacterCustomizationTool.Editor
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor
 {
     public class SlotName
     {

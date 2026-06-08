@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f1cd3103d9d741ff9aed903f55545928
+guid: c12ab4b5841148ed8b91ff02d6d92c55
 timeCreated: 1736674915
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Scripts/Editor/Randomizer/Steps/Impl/CostumesStep.cs
-  uploadId: 821370
+  uploadId: 927690

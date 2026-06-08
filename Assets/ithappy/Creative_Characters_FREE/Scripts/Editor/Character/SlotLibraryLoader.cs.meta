@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3c3cb4b19185480caba797a0824231a7
+guid: e397ebdb023b40f491539246a0236f60
 timeCreated: 1735291150
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Scripts/Editor/Character/SlotLibraryLoader.cs
-  uploadId: 821370
+  uploadId: 927690

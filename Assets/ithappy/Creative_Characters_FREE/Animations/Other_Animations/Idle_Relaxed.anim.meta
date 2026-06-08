@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d7c91d687742c86458ee65714ce8dd25
+guid: c52272260b5340bbbc2512932157aac3
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000
@@ -9,7 +9,7 @@ NativeFormatImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Animations/Other_Animations/Idle_Relaxed.anim
-  uploadId: 821370
+  uploadId: 927690

@@ -1,7 +1,7 @@
-using CharacterCustomizationTool.Editor.MaterialManagement;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.MaterialManagement;
 using UnityEngine;
 
-namespace CharacterCustomizationTool.Editor.Character
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Character
 {
     public static class PreviewCreator
     {

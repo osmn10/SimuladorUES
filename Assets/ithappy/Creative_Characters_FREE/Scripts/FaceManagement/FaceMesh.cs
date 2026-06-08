@@ -1,8 +1,8 @@
 using System;
-using CharacterCustomizationTool.Extensions;
+using ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Extensions;
 using UnityEngine;
 
-namespace CharacterCustomizationTool.FaceManagement
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.FaceManagement
 {
     [Serializable]
     public class FaceMesh

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5659b2eb0e77a5644b5f73c68fb8e5d2
+guid: 7a2fb49300b14bddad58746903ea5813
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
@@ -9,7 +9,7 @@ NativeFormatImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Configs/SlotLibrary.asset
-  uploadId: 821370
+  uploadId: 927690

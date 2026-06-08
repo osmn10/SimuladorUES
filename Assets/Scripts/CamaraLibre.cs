@@ -119,10 +119,10 @@ public class CamaraLibre : MonoBehaviour
         if (pos.y > 100f)
             pos.y = 100f;
 
-        // Limites horizontales (mismos bordes que las paredes del mapa)
-        // Bordes en X: Oeste -133, Este 116
-        if (pos.x < -133f) pos.x = -133f;
-        if (pos.x > 116f) pos.x = 116f;
+        // Limites horizontales = bordes REALES del mapa (los mismos del piso/paredes).
+        // El plano va de X -133.25 a 116.75, y de Z -171 a 79.
+        if (pos.x < -133.25f) pos.x = -133.25f;
+        if (pos.x > 116.75f) pos.x = 116.75f;
 
         // Bordes en Z: Sur -171, Norte 79
         if (pos.z < -171f) pos.z = -171f;

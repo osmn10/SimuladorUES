@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 44f4c77b25b52da4d8c0ab33a4f55a0e
+guid: 543b8c31fa1141d897f189b4765741d2
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000
@@ -9,7 +9,7 @@ NativeFormatImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Animations/Other_Animations/Run_Left.anim
-  uploadId: 821370
+  uploadId: 927690

@@ -1,7 +1,7 @@
 using System.Linq;
 using UnityEngine;
 
-namespace CharacterCustomizationTool.Editor.Character
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Character
 {
     public class FullBodyVariant
     {

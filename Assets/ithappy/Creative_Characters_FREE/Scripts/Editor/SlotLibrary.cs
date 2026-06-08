@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace CharacterCustomizationTool.Editor
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor
 {
     [CreateAssetMenu(menuName = "Character Customization Tool/Slot Library", fileName = "SlotLibrary")]
     public class SlotLibrary : ScriptableObject

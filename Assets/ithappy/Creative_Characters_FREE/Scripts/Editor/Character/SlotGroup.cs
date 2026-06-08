@@ -1,4 +1,4 @@
-namespace CharacterCustomizationTool.Editor.Character
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.Character
 {
     public class SlotGroup
     {

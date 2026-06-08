@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0f24f9714abd24a4596c28822aaa7a39
+guid: edb7369940854ad1bd9cef9adb83ab37
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -676,7 +676,7 @@ ModelImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Meshes/Pants/Pants_009.fbx
-  uploadId: 821370
+  uploadId: 927690

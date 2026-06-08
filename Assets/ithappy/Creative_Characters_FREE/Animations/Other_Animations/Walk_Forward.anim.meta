@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2152f8e3746157f4ca3aba17d5963ca8
+guid: 98b6a2eb86734f97bdcfb9fcd236f27d
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000
@@ -9,7 +9,7 @@ NativeFormatImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 304841
-  packageName: Creative Characters FREE - Animated Low Poly 3D Models
-  packageVersion: 2.2
+  packageName: Creative Characters FREE - Animated Pack
+  packageVersion: 2.3
   assetPath: Assets/ithappy/Creative_Characters_FREE/Animations/Other_Animations/Walk_Forward.anim
-  uploadId: 821370
+  uploadId: 927690

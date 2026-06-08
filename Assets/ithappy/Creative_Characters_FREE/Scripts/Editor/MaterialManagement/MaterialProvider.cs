@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace CharacterCustomizationTool.Editor.MaterialManagement
+namespace ithappy.Creative_Characters_FREE.CharacterCustomizationTool.Editor.MaterialManagement
 {
     public class MaterialProvider
     {
